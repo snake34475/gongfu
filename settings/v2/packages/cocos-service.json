@@ -1,0 +1,42 @@
+{
+  "game": {
+    "app_id": "618928932",
+    "name": "gf61",
+    "c_id": "0"
+  },
+  "appConfigMaps": [
+    {
+      "app_id": "UNKNOW",
+      "config_id": "3c5dda"
+    },
+    {
+      "app_id": "618928932",
+      "config_id": "479a92"
+    }
+  ],
+  "configs": [
+    {
+      "app_id": "UNKNOW",
+      "config_id": "3c5dda",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": []
+    },
+    {
+      "app_id": "618928932",
+      "config_id": "479a92",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": [
+        {
+          "service_id": "235",
+          "enable": true,
+          "param": {
+            "app_id": "618928932",
+            "store_id": "H5"
+          }
+        }
+      ]
+    }
+  ]
+}
